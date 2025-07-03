@@ -45,7 +45,7 @@
   ],
   "dependencies": {
     "buffer": "^6.0.3",
-    "debug": "^4.3.4",
+    "debug": "^4.4.1",
     "deep-assign": "^2.0.0",
     "load-bmfont": "^1.2.3",
     "stats-gl": "^3.6.0",
